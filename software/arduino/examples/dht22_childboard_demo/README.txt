@@ -1,0 +1,1 @@
+DHT22 Arduino Library for example file dht22_childboard_demo.ino : https://github.com/markruys/arduino-DHT

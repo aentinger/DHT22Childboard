@@ -1,11 +1,15 @@
-# LXR_DHT22_Childboard
+LXRobotics P6_4 DHT22 Childboard
+==============
 
-Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 Unported)
+![LXRobotics P6_4 DHT22 Childboard](https://www.lxrobotics.com/wp-content/uploads/mz_af_p6_4_side_small.jpg)
 
-http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+## Weitere Informationen / Further Information
 
-http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+* **DE:** https://www.lxrobotics.com/produkte/arduino-childboards/dht22-feuchtetemperatursensor
+* **EN:** https://www.lxrobotics.com/en/products/arduino-childboards/dht22-humiditytemperature-sensor
 
-Weitere Informationen unter:
+## Lizenz / License
+Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported)
 
-https://www.lxrobotics.com/produkte/arduino-childboards/dht22-feuchtetemperatursensor
+* **DE:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+* **EN:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
